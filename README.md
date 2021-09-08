@@ -1,5 +1,5 @@
-## `get quotes`
-📜 command-line quotes app using [forismatic](https://api.forismatic.com/api/1.0/)'s quotes API 
+## `📜 get quotes`
+command-line quotes app using [forismatic](https://api.forismatic.com/api/1.0/)'s quotes API 
 
 > It fetches a quote from [forismatic](https://api.forismatic.com/api/1.0/)'s quotes API when online connectivity is available.  
 > Otherwise, it selects a random quote from [quotes.json](/quotes.json)
