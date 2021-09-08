@@ -18,4 +18,4 @@
 ```
 </b>
 
-***Note: You may need to resize terminal or command prompt window in order view displayed quote correctly.***
+> You may need to resize terminal or command prompt window in order view displayed quote correctly.
